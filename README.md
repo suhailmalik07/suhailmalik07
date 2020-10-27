@@ -32,7 +32,7 @@ Currently, I'm learning MERN Stack Development at [masai school](https://www.mas
 
 
 
-<img alt="Suhail's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=suhailmalik07&show_icons=true&hide_border=true" />
+<img alt="Suhail's github stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=suhailmalik07&show_icons=true&hide_border=true" />
 
 
-<img alt="Suhail's github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailmalik07&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&hide_border=true" />
+<img alt="Suhail's github langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailmalik07&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&hide_border=true" />
