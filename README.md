@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi 👋, I'm Suhail Malik, a Full Stack Web Developer 
 
-<!--
-**suhailmalik07/suhailmalik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href='https://www.linkedin.com/in/suhail-malik/' target='_blank'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
+</a>
+<a href='https://twitter.com/maliksuhail07' target='_blank'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/twitter.svg' width='24px' />
+</a>
+<a href='https://github.com/suhailmalik07' target='_blank'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/github.svg' width='24px' />
+</a>
+<a href='https://medium.com/@suhailmalik8057' target='_blank'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/medium.svg' width='24px' />
+</a>
 
-Here are some ideas to get you started:
+### About Me
+Currently, I'm learning MERN Stack Development at [masai school](https://www.masaischool.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m looking for job.
+- 📫 How to reach me: devmsuhail@gmail.com
+- 📫 My Portfolio: [https://suhailmalik07.github.io/](https://suhailmalik07.github.io/)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1uAUK-HoSkIeC5QfdDo4fYParMyPcDdmC/view?usp=sharing)
+- 💬 Ask me about anything, I am happy to help;
+
+### Skills
+- 🚀 Languages - **HTML, CSS and JavaScript**
+- 🚀 FrameWork/Libraries - **Sass/Scss, React.js, Express.js, MaterialUI**
+- 🚀 Databases/Backend - **MongoDB, Redis, Node.js**
+- 🚀 Others - **Git, Python, VSCode**
+
+
+
+<img alt="Suhail's github stats" width="54%" src="https://github-readme-stats.vercel.app/api?username=suhailmalik07&show_icons=true&hide_border=true" />
+
+
+<img alt="Suhail's github langs" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailmalik07&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&hide_border=true" />
