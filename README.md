@@ -14,7 +14,8 @@
 </a>
 
 ### About Me
-Currently, I'm learning MERN Stack Development at [masai school](https://www.masaischool.com/).
+<!-- Currently, I'm learning MERN Stack Development at [masai school](https://www.masaischool.com/). -->
+Currently, I'm working as Software Development Engineer at [pagarbook](https://pagarbook.com/). Still learning though.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
