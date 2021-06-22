@@ -18,7 +18,7 @@ Currently, I'm learning MERN Stack Development at [masai school](https://www.mas
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m looking for job.
+<!-- - 🔭 I’m looking for job. -->
 - 📫 How to reach me: devmsuhail@gmail.com
 - 📫 My Portfolio: [https://suhailmalik07.github.io/](https://suhailmalik07.github.io/)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1uAUK-HoSkIeC5QfdDo4fYParMyPcDdmC/view?usp=sharing)
