@@ -1,4 +1,4 @@
-### Hi 👋, I'm Suhail Malik, a Full Stack Web Developer 
+### Hi 👋, I'm Suhail Malik, a Full Stack Developer 
 
 <a href='https://www.linkedin.com/in/suhail-malik/' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
@@ -15,21 +15,21 @@
 
 ### About Me
 <!-- Currently, I'm learning MERN Stack Development at [masai school](https://www.masaischool.com/). -->
-Currently, I'm working as Software Development Engineer at [pagarbook](https://pagarbook.com/). Still learning though.
+Software Development Engineer. Always learning.
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<!-- - 🔭 I’m looking for job. -->
-- 📫 How to reach me: devmsuhail@gmail.com
-- 📫 My Portfolio: [https://suhailmalik07.github.io/](https://suhailmalik07.github.io/)
+<!-- - 🔭 I’m looking for a job. -->
+- 📫 How to reach me: [devmsuhail@gmail.com](mailto:devmsuhail@gmail.com)
+<!-- - 📫 My Portfolio: [https://suhailmalik07.github.io/](https://suhailmalik07.github.io/) -->
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1uAUK-HoSkIeC5QfdDo4fYParMyPcDdmC/view?usp=sharing)
 - 💬 Ask me about anything, I am happy to help;
 
 ### Skills
-- 🚀 Languages - **HTML, CSS and JavaScript**
-- 🚀 FrameWork/Libraries - **Sass/Scss, React.js, Express.js, MaterialUI**
-- 🚀 Databases/Backend - **MongoDB, Redis, Node.js**
-- 🚀 Others - **Git, Python, VSCode**
+- 🚀 Languages - **TypeScript, Go, Rust, HTML, CSS and JavaScript**
+- 🚀 FrameWork/Libraries - **NestJS, Gin, ExpressJS, Sass/Scss, ReactJS, NextJS**
+- 🚀 Databases/Backend - **PostgreSQL, MongoDB, Redis, NodeJS, RabbitMQ**
+- 🚀 Others - **Git, Python, Docker, AWS**
 
 
 
