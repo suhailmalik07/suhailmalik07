@@ -20,8 +20,8 @@ Software Development Engineer. Always learning.
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 🔭 I’m looking for a job. -->
-- 📫 How to reach me: [devmsuhail@gmail.com](mailto:devmsuhail@gmail.com)
 <!-- - 📫 My Portfolio: [https://suhailmalik07.github.io/](https://suhailmalik07.github.io/) -->
+- 📫 How to reach me: [devmsuhail@gmail.com](mailto:devmsuhail@gmail.com)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1uAUK-HoSkIeC5QfdDo4fYParMyPcDdmC/view?usp=sharing)
 - 💬 Ask me about anything, I am happy to help;
 
